@@ -1,0 +1,22 @@
+--> PROJECT TITLE
+End-to-End Food Delivery Platform Analytics (Swiggy Analysis)
+
+--> DOMAIN
+FoodTech | E-Commerce | Hyperlocal Delivery Analytics
+
+--> TOOLS & TECHNOLOGIES
+Python (Pandas, NumPy, Matplotlib, Seaborn)
+SQL (PostgreSQL compatible)
+Power BI (DAX, Interactive Dashboards)
+
+--> PROJECT SUMMARY
+1. This project performs an end-to-end data analysis on restaurant-level data from Swiggy to extract actionable business insights.
+2. The analysis focuses on pricing, ratings, cuisine diversity, delivery efficiency, and restaurant popularity.
+3. The project simulates a real-world FoodTech analytics use case where data is used to improve customer experience,
+   restaurant onboarding strategy, and operational decision-making.
+
+--> TARGET USERS
+Business Analysts
+Operations Team
+Marketing Team
+Product Managers

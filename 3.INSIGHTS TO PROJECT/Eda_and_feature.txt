@@ -1,0 +1,14 @@
+--> DATA CLEANING STEPS:
+                   1. Removed duplicate restaurant records
+                   2. Handled missing values in ratings and pricing
+                   3. Standardized cuisine text formatting
+                   4. Converted delivery time to numerical format
+                   5. Ensured consistent data types across all columns
+
+--> EDA and Feature Engineering performed for better BI Visualisation and better business insights:
+                    1. Price_range , rating_range , deliver_range
+                    2. primary_cusine, no_of_cusines 
+                    3. popularity_score and brackets
+        
+--> All the features help in understanding the buiness and sales with better visualised ideas.
+            

@@ -1,0 +1,22 @@
+--> DATA SOURCE:
+                Kaggle – Swiggy Bangalore Restaurant Dataset
+
+--> DATASET SIZE:
+                ~8,600 restaurants
+
+--> RAW DATA COLUMNS:
+                State
+                Restaurant Name
+                Area
+                City
+                Average Price for Two
+                Average Rating
+                Total Ratings (Votes)
+                Food Types (Cuisines)
+                Delivery Time (Minutes)
+
+--> CLEANED & FEATURE ENGINEERED DATASET:
+                Missing values handled
+                Duplicates removed
+                Text columns standardized
+                New analytical features created for business analysis and BI reporting

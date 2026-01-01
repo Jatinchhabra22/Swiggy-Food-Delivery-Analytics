@@ -1,0 +1,8 @@
+--> PROJECT OUTCOMES:
+                  1.  Identified key drivers of restaurant success on food delivery platforms.
+                  2.  Built a scalable analytics framework applicable to other cities and platforms.
+                  3.  Demonstrated strong analytical, business, and visualization skills.
+                  4.  Delivered actionable insights rather than descriptive charts.
+
+--> IMPACT:
+                Supports data-driven decision-making in marketing, operations, and product strategy.

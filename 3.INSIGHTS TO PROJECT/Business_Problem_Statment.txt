@@ -1,0 +1,16 @@
+--> BUSINESS CONTEXT:
+                    Food delivery platforms operate in a highly competitive environment where
+                     customer satisfaction, delivery speed, pricing, and restaurant quality 
+                     directly impact retention and revenue.
+
+--> PROBLEM STATEMENTS:
+                1.Identify key factors influencing restaurant ratings and popularity.
+                2.Analyze whether higher-priced restaurants consistently deliver better customer satisfaction.
+                3.Determine which cuisines drive the highest customer engagement.
+                4.Study the impact of delivery time on ratings and order volume.
+                5.Segment restaurants based on performance metrics for strategic decision-making.
+                6.Support data-driven restaurant onboarding and promotional strategies.
+
+--> BUSINESS GOAL:
+                To use data analytics to optimize restaurant performance,
+                improve customer satisfaction, and support strategic decisions in a food delivery ecosystem.

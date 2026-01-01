@@ -1,0 +1,9 @@
+--> KEY INSIGHTS:
+                1.Delivery speed has a stronger impact on ratings than price.
+                2.Multi-cuisine restaurants attract a wider audience and higher order volumes.
+                3.Budget and mid-range restaurants dominate customer engagement.
+                4.Some premium restaurants suffer from low popularity despite high ratings.
+                5.High popularity does not always indicate high customer satisfaction.
+
+--> BUSINESS VALUE:
+                These insights help improve recommendation systems, promotional targeting, and restaurant onboarding strategies.

@@ -1,0 +1,9 @@
+--> City-level expansion
+
+--> Customer-level order data integration
+ 
+--> Time-based demand analysis
+ 
+--> Machine learning for restaurant recommendation
+ 
+--> Real-time dashboard integration

@@ -1,0 +1,9 @@
+--> CHALLENGES:
+            1.Handling inconsistent text data in cuisines
+            2.Designing meaningful popularity metrics
+            3.Translating data insights into business language
+
+--> LEARNINGS:
+            1.Importance of feature engineering
+            2.Business-first approach to analytics
+            3.Effective storytelling using dashboards
